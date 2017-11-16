@@ -14,7 +14,7 @@ This project is under active development. This project is being created as a sam
 5. Install rice - `go get github.com/GeertJohan/go.rice/rice`
 
 ## Git
-We use git hooks to standardize development on the project. Please run `make git-hooks` to get started.
+Hello everyone 
 
 ## Using Make
 
